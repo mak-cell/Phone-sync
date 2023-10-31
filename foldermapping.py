@@ -25,10 +25,10 @@ local_phoneMedia = """D:/Photos/pixel6A"""
 
 Whatsapp_saved = """Pictures/Whatsapp"""
 Whatsapp_Images = """Android/media/com.whatsapp/WhatsApp/Media/Whatsapp Images"""
-Whatsapp_Documenets = """Android/media/com.whatsapp/WhatsApp/Media/Whatsapp Documents"""
+# Whatsapp_Documenets = """Android/media/com.whatsapp/WhatsApp/Media/Whatsapp Documents"""
 Whatsapp_Business_Images = """Android/media/com.whatsapp/WhatsApp/Media/Whatsapp Business Images"""
-Whatsapp_Business_Documenets = """Android/media/com.whatsapp/WhatsApp/Media/Whatsapp Business Documenets"""
-Whatsapp_Status = """Android/media/com.whatsapp/WhatsApp/Media/.Statuses"""
-remote_whatsapp_folders = [Whatsapp_saved,Whatsapp_Images,Whatsapp_Documenets,Whatsapp_Business_Images,Whatsapp_Business_Documenets,Whatsapp_Status]
+# Whatsapp_Business_Documenets = """Android/media/com.whatsapp/WhatsApp/Media/Whatsapp Business Documenets"""
+# Whatsapp_Status = """Android/media/com.whatsapp/WhatsApp/Media/.Statuses"""
+remote_whatsapp_folders = [Whatsapp_saved,Whatsapp_Images,Whatsapp_Business_Images]
 local_whatsapp_folder = """D:/Photos/pixel6A/Whatsapp"""
 
